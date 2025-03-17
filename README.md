@@ -1,10 +1,3 @@
-# Scrap-Yahoo-Finance
-Yahoo Finance Scraper using Selenium only for ticker additional informations
-
-Here’s an updated version of your README with emojis added for a more engaging look:
-
----
-
 # 📊 Yahoo Finance Ticker Scraping Tool
 
 This Python-based tool leverages Selenium to scrape essential data from Yahoo Finance, including asset ticker symbols, full company names, and asset groups. It is designed for users who need to collect and manage basic financial data efficiently. 📈
