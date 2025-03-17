@@ -19,7 +19,7 @@ This Python-based tool leverages Selenium to scrape essential data from Yahoo Fi
 - ChromeDriver (compatible with your version of Chrome)
 - TQDM for progress tracking
 - Pandas for CSV handling from this link : 
-  https://github.com/ahnazary/Finance/blob/master/finance/src/database/valid_tickers.csv
+  [here](https://github.com/ahnazary/Finance/blob/master/finance/src/database/valid_tickers.csv)
 
 Install dependencies with pip:
 
