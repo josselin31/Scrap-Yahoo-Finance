@@ -52,11 +52,11 @@ Once the CSV is prepared and dependencies are installed, run the script:
 python scraper.py
 ```
 
-The script will visit the Yahoo Finance page for each ticker, extract the asset group and company name, and save the results in a new CSV file (`resultats_scraping.csv`). 💾
+The script will visit the Yahoo Finance page for each ticker, extract the asset group and company name, and save the results in a new CSV file (`scraping_results.csv`). 💾
 
 ### 3. Output
 
-The script outputs a CSV file (`resultats_scraping.csv`) with the following columns:
+The script outputs a CSV file (`scraping_results.csv`) with the following columns:
 - **Ticker**: The asset's ticker symbol. 💼
 - **Nom**: The full company name. 🏢
 - **Groupe**: The asset's group (e.g., stock, ETF, cryptocurrency). 🏦
