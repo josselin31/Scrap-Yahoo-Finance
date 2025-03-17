@@ -96,3 +96,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Let me know if you need further changes!
+
+---
+
+XPATH for group
+
+![group](https://github.com/user-attachments/assets/5ceba3ce-a4df-47b9-bd75-03e21f639c60)
+
+XPATH for asset name/title
+
+![name](https://github.com/user-attachments/assets/de56bd89-94b8-4cd1-9cc9-adeb72b2e665)
+
