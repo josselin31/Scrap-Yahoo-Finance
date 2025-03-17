@@ -49,7 +49,7 @@ MSFT
 Once the CSV is prepared and dependencies are installed, run the script:
 
 ```bash
-python scraper.py
+Ticker_Scrapper.py
 ```
 
 The script will visit the Yahoo Finance page for each ticker, extract the asset group and company name, and save the results in a new CSV file (`scraping_results.csv`). 💾
